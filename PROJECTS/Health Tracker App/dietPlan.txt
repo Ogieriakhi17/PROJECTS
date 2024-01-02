@@ -1,0 +1,21 @@
+Plan Name: Lightweight
+Calorie Goal: 123.4
+Date: 05/01/2023
+Plan Name: Slim Shady 
+Calorie Goal: 66.8
+Date: 05/02/2023
+Plan Name: Ultimate ChowDown
+Calorie Goal: 260.3
+Date: 05/03/2023
+Plan Name: Mighty Munching 
+Calorie Goal: 77.6
+Date: 05/04/2023
+Plan Name: SlowDay
+Calorie Goal: 33.8
+Date: 05/05/2023
+Plan Name: Feasting 
+Calorie Goal: 555.5
+Date: 05/06/2023
+Plan Name: Call the Chef 
+Calorie Goal: 270.3
+Date: 05/07/2023
